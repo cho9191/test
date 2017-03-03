@@ -10,6 +10,9 @@ public class TEST {
 		
 		String strScrtKey= "" ;
 		
+		String test1= "" ;
+		String test2= "" ;
+		
 		 for (int i = 0; i < 10; i++) {
 			 strScrtKey  += (char) ((Math.random() * 26) + 97);
 			 strScrtKey += (int) (Math.random() * 10) + 1;
