@@ -11,7 +11,7 @@ public class TEST {
 		String strScrtKey= "" ;
 		
 		String test1= "11" ;
-		String test2= "" ;
+		String test2= "22" ;
 		
 		 for (int i = 0; i < 10; i++) {
 		System.out.println(i);
