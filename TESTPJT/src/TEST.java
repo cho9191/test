@@ -14,8 +14,7 @@ public class TEST {
 		String test2= "" ;
 		
 		 for (int i = 0; i < 10; i++) {
-			 strScrtKey  += (char) ((Math.random() * 26) + 97);
-			 strScrtKey += (int) (Math.random() * 10) + 1;
+		
 		    }
 
 		    System.out.println(strScrtKey); 
